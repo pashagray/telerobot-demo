@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/pashagray/telerobot.git
+  revision: 88edb0349f1b749392e82d271b3fe3cfb501bcb0
+  specs:
+    telerobot (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -149,6 +155,7 @@ DEPENDENCIES
   pg (>= 0.18, < 2.0)
   puma (~> 4.1)
   rails (~> 6.0.3, >= 6.0.3.2)
+  telerobot!
   tzinfo-data
 
 RUBY VERSION
